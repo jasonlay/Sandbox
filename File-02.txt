@@ -1,0 +1,5 @@
+Adding File-02.txt in a separate branch.
+Merging will perform a forward merge.
+Testing a separate change.
+
+Recovered this file.
